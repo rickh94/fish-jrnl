@@ -19,9 +19,7 @@ $ omf install https://github.com/rickh94/fish-jrnl
 
 ## Usage
 
-```fish
-$ jrnl
-```
+Use [jrnl](http://jrnl.sh) and enjoy better completions.
 
 
 # License
